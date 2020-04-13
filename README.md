@@ -87,7 +87,7 @@ http://localhost:3000/
    -select your respective db by db name default (blog-api)
  
 >show collections
->db.users.find(),pretty
+>db.users.find().pretty()
         - to list all users in your db
         
  >db.users.update( { _id: ObjectId("      "))}, ($set: {role: "admin"} ))
