@@ -24,11 +24,9 @@ git commit
   - [guide](https://docs.npmjs.com/cli/install)
   
   
+ - React JS 
   
-  - React JS 
-  
-  - [guide](https://reactjs.org/docs/create-a-new-react-app.html)
-  
+   - [guide](https://reactjs.org/docs/create-a-new-react-app.html)
   
   
   
