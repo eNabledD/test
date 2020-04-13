@@ -76,7 +76,23 @@ http://localhost:3000/
 
 ```
 > mongod
-
 ````
 
+**ADMIN SETUP**
 
+```
+> mongo
+> show dbs
+> use db name
+   -select your respective db by db name default (blog-api)
+ 
+>show collections
+>db.users.find(),pretty
+        - to list all users in your db
+        
+ >db.users.update( { _id: ObjectId("      "))}, ($set: {role: "admin"} ))
+            - select the ObjectId of respective user you want to make admin
+            
+  ```
+ 
+ 
