@@ -7,7 +7,8 @@ git status
 git add
 git commit
 ```
-** Requirements **
+**Requirements**
 
 - Node JS
-  [guide](https://nodejs.org/en/download/).
+  [guide]
+   (https://nodejs.org/en/download/).
