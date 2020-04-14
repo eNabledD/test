@@ -4,11 +4,7 @@ An app for posting  blog  with comment, like  and  Admin feature.
 
 1. Basic Command
 
-```
-git status
-git add
-git commit
-```
+
 
 ## Build Setup
 
@@ -84,11 +80,11 @@ http://localhost:3000/
 > use db name
    -select your respective db by db name default (blog-api)
  
->show collections
->db.users.find().pretty()
+> show collections
+> db.users.find().pretty()
         - to list all users in your db
         
- >db.users.update( { _id: ObjectId("      "))}, ($set: {role: "admin"} ))
+ > db.users.update( { _id: ObjectId("      ")}, ($set: {role: "admin"} ))
             - select the ObjectId of respective user you want to make admin
             
   ```
