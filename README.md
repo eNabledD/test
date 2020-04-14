@@ -1,6 +1,6 @@
 # BLOG-APP
 
-An app for posting  blog  with comment, like  and  Admin feature.
+An app for posting  blog  with comment, like, OAuth  and  Admin feature.
 
 1. Basic Command
 
